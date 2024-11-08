@@ -1,11 +1,11 @@
 {
   "version": "4",
   "specifiers": {
-    "jsr:@intpfx/fx@*": "0.0.3"
+    "jsr:@intpfx/fx@*": "0.0.4"
   },
   "jsr": {
-    "@intpfx/fx@0.0.3": {
-      "integrity": "6479a3bd92ca7a743e3bc162a512bba6d9d71ab1cdfbcd538d607569d6d2946d"
+    "@intpfx/fx@0.0.4": {
+      "integrity": "a28b064ab62cfc191fbf4248a32beaf6f6f3f4a992bd0824ab8489e008f289ae"
     }
   }
 }
