@@ -1,5 +1,5 @@
 {
   "tasks": {
-    "dev": "deno -A --unstable-kv --watch-hmr index.js"
+    "dev": "deno -A --unstable-kv --watch index.js"
   }
 }
